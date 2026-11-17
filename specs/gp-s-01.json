@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gp-s-01",
+    "template": "tiles",
+    "format": "story",
+    "colour": "green",
+    "kicker": "for employers",
+    "headline": "Benefits your people will actually use.",
+    "headline_size": 96,
+    "tiles": [
+      [
+        "house",
+        "Mortgage advice"
+      ],
+      [
+        "shield",
+        "Protection"
+      ],
+      [
+        "will",
+        "Will writing"
+      ],
+      [
+        "wealth",
+        "Wealth support"
+      ]
+    ],
+    "note": "Free for your people. Done by brokers who do the work.",
+    "button": "getperks.co.uk",
+    "warning": true
+  }
+]

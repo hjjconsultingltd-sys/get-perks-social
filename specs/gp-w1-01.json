@@ -1,0 +1,40 @@
+[
+  {
+    "id": "gp-w1-01",
+    "template": "tiles",
+    "format": "post",
+    "colour": "green",
+    "kicker": "meet get perks",
+    "headline": "Benefits your people will actually use.",
+    "tiles": [
+      [
+        "house",
+        "Mortgage advice"
+      ],
+      [
+        "shield",
+        "Protection"
+      ],
+      [
+        "will",
+        "Will writing"
+      ],
+      [
+        "wealth",
+        "Wealth support"
+      ]
+    ],
+    "note": "Free for your people. Done by brokers who do the work.",
+    "button": "getperks.co.uk",
+    "warning": true
+  },
+  {
+    "id": "gp-w1-01-preview",
+    "format": "preview",
+    "image": "gp-w1-01",
+    "date": "Tue 17 Nov",
+    "pillar": "Launch",
+    "linkedin": "Meet Get Perks 👋\n\nMost benefits platforms give your people a list of discounts and a phone number. We do something different.\n\nGet Perks gives your employees free access to mortgage advice, protection, will writing and wealth support, delivered by experienced brokers who do the work themselves.\n\nNo hand-offs. Just real advice from real people, at no cost to your team.\n\nIf you look after HR or reward and want a benefit your people will actually use, let's talk.\n\n👉 getperks.co.uk\n\nYour home may be repossessed if you do not keep up repayments on your mortgage.\n\n#EmployeeBenefits #FinancialWellbeing #Reward #HR",
+    "instagram": "Meet get perks 👋 Free mortgage advice, protection, will writing and wealth support for your people, from brokers who do the work. Employers, find out more at getperks.co.uk\n\nYour home may be repossessed if you do not keep up repayments on your mortgage.\n\n#employeebenefits #financialwellbeing #hr #getperks"
+  }
+]

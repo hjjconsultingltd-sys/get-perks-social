@@ -1,0 +1,40 @@
+[
+  {
+    "id": "gp-w1-02",
+    "template": "tiles",
+    "format": "post",
+    "colour": "coral",
+    "kicker": "more for you",
+    "headline": "Your perks should do more than money off a pizza.",
+    "headline_size": 96,
+    "tiles": [
+      [
+        "house",
+        "Your home"
+      ],
+      [
+        "shield",
+        "Your family"
+      ],
+      [
+        "will",
+        "Your will"
+      ],
+      [
+        "wealth",
+        "Your savings"
+      ]
+    ],
+    "button": "Ask your HR team",
+    "warning": true
+  },
+  {
+    "id": "gp-w1-02-preview",
+    "format": "preview",
+    "image": "gp-w1-02",
+    "date": "Wed 18 Nov",
+    "pillar": "Employee value",
+    "linkedin": "Most benefits schemes lead with discounts. Money off a pizza is nice, but it is not what keeps people up at night.\n\nThe big stuff is buying or remortgaging a home, protecting a family, writing a will and growing savings. That is where Get Perks helps, with free support from brokers who do the work themselves.\n\nIf your people would value help with the things that matter, let's talk: getperks.co.uk\n\nYour home may be repossessed if you do not keep up repayments on your mortgage.\n\n#EmployeeBenefits #FinancialWellbeing #Reward",
+    "instagram": "Your perks should do more than money off a pizza 🍕 With get perks, your employer can give you free help with the big stuff: your home, your family, your will and your savings. Ask your HR team 💚\n\nYour home may be repossessed if you do not keep up repayments on your mortgage.\n\n#getperks #employeebenefits #moneymatters"
+  }
+]

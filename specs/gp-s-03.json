@@ -1,0 +1,11 @@
+[
+  {
+    "id": "gp-s-03",
+    "template": "scorecard",
+    "format": "story",
+    "colour": "green",
+    "kicker": "free scorecard",
+    "headline": "How financially supported is your team?",
+    "button": "getperks.co.uk/scorecard"
+  }
+]

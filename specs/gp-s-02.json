@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gp-s-02",
+    "template": "tiles",
+    "format": "story",
+    "colour": "coral",
+    "kicker": "more for you",
+    "headline": "The big money stuff, sorted.",
+    "headline_size": 104,
+    "tiles": [
+      [
+        "house",
+        "Buying or remortgaging"
+      ],
+      [
+        "shield",
+        "Protecting your family"
+      ],
+      [
+        "will",
+        "Writing your will"
+      ],
+      [
+        "wealth",
+        "Growing your savings"
+      ]
+    ],
+    "note": "Free help through your employer.",
+    "button": "Ask your HR team",
+    "warning": true
+  }
+]

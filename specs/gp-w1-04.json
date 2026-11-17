@@ -1,0 +1,35 @@
+[
+  {
+    "id": "gp-w1-04",
+    "template": "steps",
+    "format": "post",
+    "colour": "green",
+    "kicker": "for employers",
+    "headline": "How get perks works.",
+    "steps": [
+      [
+        "We set you up",
+        "Co-branded portal and a launch pack for your team."
+      ],
+      [
+        "Your people ask for help",
+        "Mortgages, protection, wills and wealth."
+      ],
+      [
+        "A broker does the work",
+        "Start to finish, at no cost to them."
+      ]
+    ],
+    "button": "getperks.co.uk",
+    "warning": true
+  },
+  {
+    "id": "gp-w1-04-preview",
+    "format": "preview",
+    "image": "gp-w1-04",
+    "date": "Fri 20 Nov",
+    "pillar": "Employer value",
+    "linkedin": "How does Get Perks work? Three steps.\n\n1. We set you up. You get a co-branded portal and a launch pack with posters, intranet copy and email templates.\n2. Your people ask for help with the things that matter: mortgages, protection, wills and wealth.\n3. A broker does the work, start to finish, at no cost to them.\n\nYou get anonymised reporting on how your people use their benefits. They get real help from real people.\n\nFind out more at getperks.co.uk\n\nYour home may be repossessed if you do not keep up repayments on your mortgage.\n\n#EmployeeBenefits #HR #Reward",
+    "instagram": "How get perks works: we set your company up, your people ask for help, and a broker does the work. Free for them. getperks.co.uk\n\nYour home may be repossessed if you do not keep up repayments on your mortgage.\n\n#employeebenefits #hr #getperks"
+  }
+]

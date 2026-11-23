@@ -1,0 +1,40 @@
+[
+  {
+    "id": "gp-w2-02",
+    "format": "post",
+    "template": "tiles",
+    "colour": "coral",
+    "kicker": "for you",
+    "headline": "Help with the big money decisions.",
+    "tiles": [
+      [
+        "house",
+        "Mortgage advice"
+      ],
+      [
+        "shield",
+        "Protection"
+      ],
+      [
+        "will",
+        "Will writing"
+      ],
+      [
+        "wealth",
+        "Wealth support"
+      ]
+    ],
+    "note": "Free to you when your employer offers get perks.",
+    "button": "Ask your HR team",
+    "warning": true
+  },
+  {
+    "id": "gp-w2-02-preview",
+    "format": "preview",
+    "image": "gp-w2-02",
+    "date": "Wed 25 Nov",
+    "pillar": "Employee value",
+    "linkedin": "Buying your first home. Remortgaging. Making sure your family is looked after. Writing a will. Planning your savings.\n\nThese are some of the biggest money decisions you will make, and they are easier with someone in your corner.\n\nIf your employer offers Get Perks, you get help with mortgages, protection, will writing and wealth from a broker who does the work for you, start to finish. It is free to you because your employer covers it.\n\nNot sure if your workplace offers it? Ask your HR team, or point them to getperks.co.uk\n\nYour home may be repossessed if you do not keep up repayments on your mortgage.\n\n#EmployeeBenefits #FinancialWellbeing #MoneyMatters",
+    "instagram": "Your home, your family, your will, your savings. If your employer offers Get Perks, you get free help with all of it from a broker who does the work for you 💚 Ask your HR team.\n\nYour home may be repossessed if you do not keep up repayments on your mortgage.\n\n#getperks #employeebenefits #moneymatters #financialwellbeing"
+  }
+]

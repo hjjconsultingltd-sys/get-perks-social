@@ -1,0 +1,39 @@
+[
+  {
+    "id": "gp-w2-01",
+    "format": "post",
+    "template": "tiles",
+    "colour": "green",
+    "kicker": "for employers",
+    "headline": "Everything you need to launch.",
+    "tiles": [
+      [
+        "briefcase",
+        "Co-branded portal"
+      ],
+      [
+        "will",
+        "Launch pack"
+      ],
+      [
+        "heart",
+        "On-site adviser days"
+      ],
+      [
+        "check",
+        "Anonymised reporting"
+      ]
+    ],
+    "note": "You launch it. Our brokers do the work.",
+    "button": "getperks.co.uk"
+  },
+  {
+    "id": "gp-w2-01-preview",
+    "format": "preview",
+    "image": "gp-w2-01",
+    "date": "Tue 24 Nov",
+    "pillar": "Employer value",
+    "linkedin": "Launching a new benefit should not mean more work for HR.\n\nWhen you sign up to Get Perks, you get everything you need to put it in front of your people:\n\nA co-branded portal with your logo on it.\nA launch pack with posters, intranet copy and email templates.\nOn-site adviser days, so your people can put a face to the service.\nAnonymised reporting, so you can see how the benefit is used without seeing anyone's personal details.\n\nThen our brokers do the work, not your team.\n\ngetperks.co.uk\n\n#EmployeeBenefits #HR #Reward #EmployeeEngagement",
+    "instagram": "Launching a benefit should not mean more work for HR. Get Perks gives you a co-branded portal, a launch pack, adviser days and anonymised reporting. Then our brokers do the work. getperks.co.uk\n\n#employeebenefits #hr #reward #getperks"
+  }
+]
